@@ -15,6 +15,6 @@ info: rtl8188fu support will be add to rtl8xxxu module of Linux kernel. https://
     
     sudo cp ./rtl8188fu/firmware/rtl8188fufw.bin /lib/firmware/rtlwifi/
 
-
+For verification unpluged the wifi dongle and plugged it again..
 
 
